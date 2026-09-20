@@ -46,9 +46,7 @@ code.select {
 }
 </style>
 
-<div class="alert alert-primary alert-cats-list" role="alert">
-	<p class="m-0"><?php lang()->p( "Go to the <a href='{$guide_page}'>Meta Data guide</a> page." ); ?></p>
-</div>
+<p class="page-description"><?php lang()->p( "Go to the <a href='{$guide_page}'>Meta Data guide</a> page." ); ?></p>
 
 <nav id="nav-tabs">
 	<ul class="nav nav-tabs" id="nav-tab" role="tablist">

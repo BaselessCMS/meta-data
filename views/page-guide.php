@@ -30,9 +30,7 @@ code.select {
 
 <h1><span class="page-title-icon fa fa-book"></span> <span class="page-title-text"><?php lang()->p( 'Meta Data Guide' ) ?></span></h1>
 
-<div class="alert alert-primary alert-cats-list" role="alert">
-	<p class="m-0"><?php lang()->p( "Go to the <a href='{$form_page}'>Meta Data options</a> page." ); ?></p>
-</div>
+<p class="page-description"><?php lang()->p( "Go to the <a href='{$form_page}'>Meta Data options</a> page." ); ?></p>
 
 <nav class="mb-3">
 	<div class="nav nav-tabs" id="nav-tab" role="tablist">
